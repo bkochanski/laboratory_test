@@ -4,7 +4,6 @@ format: html
 ---
 
 ```{python}
-import pandas as pd
 print("Hello, Lab!")
 ```
 

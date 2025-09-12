@@ -7,3 +7,6 @@ format: html
 print("Hello, Lab!")
 ```
 
+```{python}
+(1+0.09)**18
+```
